@@ -1,0 +1,29 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Hamburger Cheese Bacon ",
+      "keywords": [
+        "cheese",
+        "bacon"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Hamburger Cheese Bacon special",
+      "keywords": [
+        "cheese",
+        "bacon"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Hamburger Bufalo Cheese",
+      "keywords": [
+        "cheese",
+        "bacon",
+        "bufalo"
+      ]
+    }
+  ]
+}
